@@ -9,6 +9,7 @@ body {
     color: #fff;
     text-align: center;
     margin: 0;
+    flex-wrap: wrap;
 }
 
 .points {
