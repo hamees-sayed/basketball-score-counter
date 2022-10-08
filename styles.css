@@ -1,0 +1,68 @@
+body {
+    background-color: #1B244A;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+    text-align: center;
+}
+
+.points {
+    display: flex;
+    justify-content: space-around;
+    color: #9AABD8;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-size: 90px;
+    font-weight: 400;
+    color: #F94F6D;
+    background-color: #080001;
+    height: 120px;
+    width: 155px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.points button {
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    height: 45px;
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    color: #9AABD8;
+    cursor: pointer;
+}
+
+.reset {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    cursor: pointer;
+    height: 45px;
+    margin-top: 20px;
+    font-weight: 700;
+    color: #fff;
+    background-color: green;
+    border-radius: 5px;
+    border: none;
+}
