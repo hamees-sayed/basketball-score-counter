@@ -5,9 +5,10 @@ body {
 
 .container {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     color: #fff;
     text-align: center;
+    margin: 0;
 }
 
 .points {
@@ -17,14 +18,14 @@ body {
 }
 
 h1 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Bungee', cursive;
     font-size: 40px;
     font-weight: 700;
     text-align: center;
 }
 
 h2 {
-    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-family: 'Silkscreen', cursive;
     font-size: 90px;
     font-weight: 400;
     color: #F94F6D;
@@ -39,7 +40,7 @@ h2 {
 }
 
 .points button {
-    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-family: 'Silkscreen', cursive;
     font-size: 18px;
     font-weight: 400;
     border: 2px solid #9AABD8;
@@ -55,7 +56,7 @@ h2 {
 }
 
 .reset {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Gloria Hallelujah', cursive;
     font-size: 25px;
     cursor: pointer;
     height: 45px;
