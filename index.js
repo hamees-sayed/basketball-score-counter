@@ -1,8 +1,6 @@
 let home = 0
 let guest = 0
 
-// document.getElementById("score-home") = home
-// document.getElementById("score-guest") = guest
 
 function add1Home() {
     home += 1
