@@ -7,8 +7,6 @@ body {
     display: flex;
     justify-content: space-evenly;
     color: #fff;
-    text-align: center;
-    margin: 0;
     flex-wrap: wrap;
 }
 
