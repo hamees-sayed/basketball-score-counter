@@ -66,3 +66,14 @@ h2 {
     border-radius: 5px;
     border: none;
 }
+
+.footer {
+    position: absolute;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    bottom: 0px;
+}
+
+.footer a {
+    text-decoration: none;
+}
